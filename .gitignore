@@ -1,0 +1,12 @@
+# .gitignore
+*.zip
+*.h5
+*.pkl
+*.pyc
+
+venv/
+data/
+model/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
