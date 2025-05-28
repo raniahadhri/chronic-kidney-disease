@@ -1,3 +1,4 @@
 # Chronic-Kidney-Disease
 
-![Tennis Club App](cdk.png)
+
+![Alt text describing the image](ckd.png)
