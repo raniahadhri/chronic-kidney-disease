@@ -3,3 +3,8 @@ ipykernel
 numpy
 scipy
 pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+streamlit
